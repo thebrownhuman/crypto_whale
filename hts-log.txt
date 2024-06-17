@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Jun 2024 15:36:08 at https://join-binancemaster.minisite.ai/?fbclid=PAAabVkb2CuheFFQmqyWat8sqLOfi7QkmaPl-Tc8Y3lNqkRYo46puw9owrIew_aem_AWeaRHBkY1eLgryAXzBymCiP0XWGKV6VBQAiOoTol4-AAvF5WEZhkgvN7oeqzvxVG_PzojNrSiV5csIfXQOmJYAX +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://join-binancemaster.minisite.ai/?fbclid=PAAabVkb2CuheFFQmqyWat8sqLOfi7QkmaPl-Tc8Y3lNqkRYo46puw9owrIew_aem_AWeaRHBkY1eLgryAXzBymCiP0XWGKV6VBQAiOoTol4-AAvF5WEZhkgvN7oeqzvxVG_PzojNrSiV5csIfXQOmJYAX -O1 "C:\Users\Shiva\Desktop\shiv_x" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:36:24	Error: 	"Not Found" (404) at link https://join-binancemaster.minisite.ai/a (from https://connect.facebook.net/en_US/fbevents.js)
+15:36:24	Error: 	"Not Found" (404) at link https://join-binancemaster.minisite.ai/POST (from https://connect.facebook.net/en_US/fbevents.js)
+15:36:24	Error: 	"Not Found" (404) at link https://join-binancemaster.minisite.ai/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 24 links scanned, 20 files written (6746652 bytes overall) [5070381 bytes received at 316898 bytes/sec], 2417847 bytes transferred using HTTP compression in 16 files, ratio 29%, 1.5 requests per connection
+(3 errors, 0 warnings, 0 messages)
